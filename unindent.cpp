@@ -1,6 +1,6 @@
 #include <iostream>
 #include "removeLeadingSpaces.h"
-//gets the input and removes all leading spaces using the removeLeadingSpaces function
+//gets the input ausing getline and removes all leading spaces using the removeLeadingSpaces function
 int main() {
     std::string response;
     std::string oneLine;
